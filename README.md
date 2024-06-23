@@ -1,5 +1,6 @@
 # Ai Copilot Search PrePrints
-![Ai Copilot Search PrePrints Banner](./AICOPS.png)
+
+<img src="./AICOPS.png" alt="Ai Copilot Search PrePrints Banner" style="width:50%;">
 🚨 News: MS Ai Copilot now has a URL query parameter for inference! 
 
 # Search for free preprints of scientific papers with Microsoft's Ai Copilot Bookmarklet. Use Artificial Intelligence to find papers. 
