@@ -1,6 +1,6 @@
 # Copilot Search PrePrints
 
-News: MS Copilot now has a URL parameter query! 
+🚨 News: MS Copilot now has a URL query parameter for inference! 
 
 Search for free preprints of scientific papers with Microsoft's Copilot Bookmarklet.
 
