@@ -1,5 +1,5 @@
 # Copilot Search PrePrints
-Search for free preprints of scientific paper with Microsoft's Copilot Bookmarklet
+Search for free preprints of scientific papers with Microsoft's Copilot Bookmarklet.
 
 Run [Install.htm](Install.htm) and follow the instructions.
 
